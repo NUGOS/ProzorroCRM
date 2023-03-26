@@ -3360,8 +3360,6 @@ j
 :frontend-angullar/node_modules/memfs/lib/setImmediate.d.ts,e/b/eba100a76332dce97ddbd087334909783bda40f1
 u
 Efrontend-angullar/node_modules/rxjs/src/internal/operators/groupBy.ts,3/0/306e5769691ba8e0cd6b4b45701a1475dc73973e
-P
- frontend-angullar/src/styles.css,3/2/32b239c120bb933d9c2124d0b676a743c82fd8a0
 v
 Ffrontend-angullar/node_modules/rxjs/src/internal/operators/throttle.ts,a/7/a7e9949642b610108746d2ba4c26e0103bb673f6
 x
@@ -4860,8 +4858,6 @@ Rfrontend-angullar/node_modules/@angular/compiler-cli/ngcc/src/rendering/utils.d
 Leureka-server/src/main/java/ua/ldv/eurekaserver/EurekaServerApplication.java,1/3/1302d2e4cb3433e3dc643f172f5fd4b7fbd648ef
 |
 Leureka-client/src/main/java/ua/ldv/eurekaclient/EurekaClientApplication.java,e/0/e02cb4e5e0a1c1bded273ab5c37ecef261f6bab6
-f
-6frontend-angullar/src/app/test-service.service.spec.ts,c/7/c7185fd87972a700e1d4702e54f573ae83ba850b
 S
 #frontend-angullar/tsconfig.app.json,c/f/cfe98685f03b54741423c80e70400e688b31b15f
 O
@@ -4870,8 +4866,6 @@ T
 $frontend-angullar/tsconfig.spec.json,8/7/87211915a41bb5072956ac679209d78ec6483924
 H
 api-gateway/build.gradle,6/8/68a416ff071be67c370ccc417719b65106ae9180
-v
-Ffrontend-angullar/node_modules/@fullcalendar/core/internal-common.d.ts,a/e/ae05529c5334cdf5413aa294d162dc8d4d54d8e1
 P
  frontend-angullar/src/index.html,a/0/a0859117e1e6c3711a7b9d2909b5476e9d07bdd3
 _
