@@ -40,3 +40,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.properties
+
+/.jpb
+/.gradle
+/.idea
+/frontend-angullar.iml
+/frontend-angullar/.angular
+/frontend-angullar/node_modules/*
