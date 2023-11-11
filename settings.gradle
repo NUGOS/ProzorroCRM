@@ -1,0 +1,5 @@
+rootProject.name = "ProzorroCRM"
+includeBuild 'eureka-server'
+includeBuild 'database-service'
+includeBuild 'api-gateway'
+includeBuild 'oauth2-service'
